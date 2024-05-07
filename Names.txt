@@ -1,7 +1,7 @@
 Hi this is the first file in the git repository
 hope i will leatn this and make myself clear
 
-if you face priblem in git push
+if you face problem in git push
 
 generate your token use that token to push
 
