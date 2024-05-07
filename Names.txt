@@ -1,2 +1,8 @@
-Hi this is the first filr in the git repository
+Hi this is the first file in the git repository
 hope i will leatn this and make myself clear
+
+if you face priblem in git push
+
+generate your token use that token to push
+
+commad to remove login is : git remote set-url origin https://<token>@github.com/<username>/repo-name
